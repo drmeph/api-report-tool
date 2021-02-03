@@ -1,0 +1,8 @@
+google:
+  placesApi:
+    key: "changeme"
+    fields: "business_status,formatted_address,geometry,icon,name,photos,place_id,plus_code,types"
+    locationBias: "0.006350,101.498266|23.350170,115.085199"
+report:
+  testVolume: 300
+  batchSize: 100
