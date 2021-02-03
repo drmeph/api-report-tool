@@ -2,7 +2,7 @@
 
 This project is meant to be a tool to create customize report using data pulled from apis.
 Although The current version isn't generic yet, the goal is to allow users to be able to customize it to use different apis.
-But as per now, this tool only create reports for the [Google Places API](https://developers.google.com/places/web-service/overview?hl=en_US).
+But as per now, this tool only create reports for the [Google Places API](https://developers.google.com/places/web-service/overview).
 
 ## Prerequisite
 * Java 8 (or later)
